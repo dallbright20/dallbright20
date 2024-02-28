@@ -15,4 +15,4 @@
 
 
 
-[linkedin]: https://linkedin.com/in/Josh
+[linkedin]: https://www.linkedin.com/in/dwain-allbright-1214a5214/
