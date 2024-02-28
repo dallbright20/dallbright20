@@ -1,7 +1,9 @@
 <h1>Hi, I'm Dwain, an <a href="https://www.linkedin.com/in/dwain-allbright-1214a5214/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
-
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/dallbright20/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/dallbright20/post-install-config)
 
 - <b>Microsoft Azure</b>
   - [Installing and configuring Active Directory](https://github.com/dallbright20/configure-ad)
